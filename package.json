@@ -1,0 +1,34 @@
+{
+  "name": "git_commit_share",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commit": "git-cz",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tangfen/git_commit_share.git"
+  },
+  "keywords": [
+    "commitizen",
+    "commitlint",
+    "semantic-release"
+  ],
+  "author": "miyatang <tangfen19149@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tangfen/git_commit_share/issues"
+  },
+  "homepage": "https://github.com/tangfen/git_commit_share#readme",
+  "devDependencies": {
+    "commitizen": "^4.0.3",
+    "cz-conventional-changelog": "^3.0.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
