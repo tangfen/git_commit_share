@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/tangfen/git_commit_share/compare/v1.1.0...v1.2.0) (2019-12-03)
+
+
+### Features
+
+* update dev ([e99b18a](https://github.com/tangfen/git_commit_share/commit/e99b18ad41ef3a9ff9f580bdb4f35128dbeb659a))
+* 新增入口 ([f7bac04](https://github.com/tangfen/git_commit_share/commit/f7bac04348d6e0c7960259c03423451853ee8b94))
+
 # [1.1.0](https://github.com/tangfen/git_commit_share/compare/v1.0.0...v1.1.0) (2019-12-03)
 
 
