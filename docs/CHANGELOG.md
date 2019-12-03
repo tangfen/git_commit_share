@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/tangfen/git_commit_share/compare/v1.2.0...v1.3.0) (2019-12-03)
+
+
+### Features
+
+* rebase_m ([a4e1713](https://github.com/tangfen/git_commit_share/commit/a4e1713dc4728f58d6e92b51648bc293b6ff5350))
+
 # [1.2.0](https://github.com/tangfen/git_commit_share/compare/v1.1.0...v1.2.0) (2019-12-03)
 
 
