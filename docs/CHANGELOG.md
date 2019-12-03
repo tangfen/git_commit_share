@@ -1,3 +1,12 @@
+# [1.1.0](https://github.com/tangfen/git_commit_share/compare/v1.0.0...v1.1.0) (2019-12-03)
+
+
+### Features
+
+* update master ([e4a6add](https://github.com/tangfen/git_commit_share/commit/e4a6addaf75add55b529c7112ba30104f374d679))
+* update master2 ([569fc81](https://github.com/tangfen/git_commit_share/commit/569fc813207087396d9725af35f4cc21bf93b52c))
+* update master3 ([12c7f47](https://github.com/tangfen/git_commit_share/commit/12c7f474972237e8860b56add2464905722b00a7))
+
 # 1.0.0 (2019-11-19)
 
 
