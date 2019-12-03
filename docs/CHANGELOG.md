@@ -1,3 +1,13 @@
+# [1.4.0](https://github.com/tangfen/git_commit_share/compare/v1.3.0...v1.4.0) (2019-12-03)
+
+
+### Features
+
+* rebase_d ([9240710](https://github.com/tangfen/git_commit_share/commit/92407108dca2a61867fc4b97f57d850c664410a5))
+* rebase_d ([d3f1a3b](https://github.com/tangfen/git_commit_share/commit/d3f1a3baee7112820f616cd3c397f8d3185e3846))
+* rebase_d1 ([3b3b501](https://github.com/tangfen/git_commit_share/commit/3b3b5016bcce4609284d1cf12a4978651ddd22a6))
+* rebase_m1 ([d8f9149](https://github.com/tangfen/git_commit_share/commit/d8f9149ca1e80a180b4158d7435b45fa786c372b))
+
 # [1.3.0](https://github.com/tangfen/git_commit_share/compare/v1.2.0...v1.3.0) (2019-12-03)
 
 
